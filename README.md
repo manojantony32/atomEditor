@@ -17,3 +17,6 @@ Step 4: Refresh Atom Browser
 2. cd platformio-atom-ide-terminal
 3. sudo apm install
 4. sudo apm link
+
+---Remove packages in ubuntu---
+1. rm -rf ~/.atom/packages/platformio-atom-ide-terminal
